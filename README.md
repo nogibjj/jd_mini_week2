@@ -1,6 +1,3 @@
-# rust-new-project-template
-A good starting point for a new Rust project
+# Mini Week Project 2 
 
-## References
-
-* [rust-cli-template](https://github.com/kbknapp/rust-cli-template)
+Function takes in command line arguments for a file path and desired image size and will save a new image resized. 
